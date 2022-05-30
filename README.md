@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubhajit
-- 👀 I’m interested in making cool softwares
-- 💻 I'm currently working on Pega Technology in my current organization
+- 👀 I’m interested in making variety of softwares
+- 💻 I'm currently working as Pega Developer in my current organization
 - 🌱 I’m always open to learn new tech stack
 - 💞️ I’m looking to collaborate on challenging projects
 - 📫 Write me @ shubhajitroy347@gmail.com
